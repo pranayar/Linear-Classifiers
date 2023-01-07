@@ -1,5 +1,5 @@
 # Linear-Classifiers using Python
-In this colab notebook, I have shown the demonstration and explained Linear Classifiers wit the help of Python.
+In this colab notebook, I have shown the demonstration and explained Linear Classifiers with the help of Python.
 The 4 types of linear classifiers explained are:
 1. Logistic Regression: This is a binary classifier that uses the logistic function to predict the probability of a given input belonging to one of two classes.
 2. Linear Discriminant Analysis (LDA): This is a supervised learning method that is used to predict the class of a given input based on the linear combination of features.
